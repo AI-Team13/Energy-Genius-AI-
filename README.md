@@ -23,7 +23,7 @@ D-3App prototype:
 
 This setup provides a basic structure for the D-app, encompassing the specified pages and their functionalities. The backend serves mock data through APIs, and the frontend uses React to fetch and display this data. This prototype can be expanded with real data sources, enhanced UI, and integrated blockchain functionalities using Web3.js for full D-app capabilities.
 
-[![alt text](https://github.com/[Rania-Menjour]/[Energy-Genius-AI-]/blob/[main]/image.jpg?raw=true)](https://github.com/AI-Team13/Energy-GeniusAI-/blob/main/3D%20App%20Project%20structure.png)
+
 
 Prerequisites
 
