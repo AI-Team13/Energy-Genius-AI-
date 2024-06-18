@@ -34,6 +34,7 @@ Express.js for the back-end.
 Web3.js for blockchain interactions.
 Project Structure
 energy-disaggregation-dapp/
+/code
 ├── backend/
 │   ├── server.js
 │   └── routes/
