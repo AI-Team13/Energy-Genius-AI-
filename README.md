@@ -35,3 +35,27 @@ Express.js for the back-end.
 
 Web3.js for blockchain interactions.
 Project Structure
+
+FOR THE AI Desaggregation model:
+
+Appliance	F1 Score	Precision	Recall	Accuracy	MCC	MAE	SAE
+Fridge	0.867	0.877	0.857	0.881	0.759	15.20	-0.025
+Dishwasher	0.935	0.948	0.923	0.997	0.934	20.30	-0.044
+Washing Machine	0.979	0.975	0.982	0.997	0.977	41.99	-0.076
+The values in the table represent the evaluation metrics for each appliance, including F1 Score, Precision, Recall, Accuracy, Matthews Correlation Coefficient (MCC), Mean Absolute Error (MAE), and Signal Approximation Error (SAE).
+
+Summary of Findings:
+It's slightly slower since I used CPU instead of GPU due to problems of compatibility but still:
+The code provides a comprehensive summary of the findings and insights gained from the model's performance evaluation. It highlights the accuracy, precision, recall, and F1-score achieved by the model in classifying different appliance power consumption patterns. 
+Implications and Applications:
+
+The code discusses the implications of accurate appliance power consumption classification in domestic settings. It outlines potential applications, such as energy management, load forecasting, and anomaly detection, and their relevance in promoting energy efficiency and sustainability.
+Limitations and Challenges:
+
+The code addresses any limitations and challenges encountered during the model training and evaluation process. It discusses potential data-related issues, model constraints, and any other factors that might have influenced the results.
+Future Work and Improvements:
+
+The code suggests potential avenues for future work and improvements in the appliance power consumption classification task. It could include exploring advanced deep learning architectures, incorporating additional features or data sources, or refining the existing model based on the identified limitations.
+Recommendations:
+
+Based on the findings and the implications discussed, the code might provide recommendations for stakeholders, policymakers, or researchers interested in leveraging appliance power consumption data for energy management and sustainability initiatives.
