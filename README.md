@@ -45,7 +45,6 @@ Washing Machine	0.979	0.975	0.982	0.997	0.977	41.99	-0.076
 The values in the table represent the evaluation metrics for each appliance, including F1 Score, Precision, Recall, Accuracy, Matthews Correlation Coefficient (MCC), Mean Absolute Error (MAE), and Signal Approximation Error (SAE).
 
 Summary of Findings:
-It's slightly slower since I used CPU instead of GPU due to problems of compatibility but still:
 The code provides a comprehensive summary of the findings and insights gained from the model's performance evaluation. It highlights the accuracy, precision, recall, and F1-score achieved by the model in classifying different appliance power consumption patterns. 
 Implications and Applications:
 
